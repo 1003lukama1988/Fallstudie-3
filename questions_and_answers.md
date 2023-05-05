@@ -1,6 +1,6 @@
 # Foodie-Fi
 ## Questions and Answers
-### by jaime.m.shaker@gmail.com
+
 
 
 ❗ **Note** ❗
